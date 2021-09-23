@@ -19,6 +19,6 @@ btnRoll.addEventListener("click", function () {
   const dice = Math.random() * 6;
 
   // 2. Display dice
-
+  // zmiana do by sprawdzic by dziala git
   // 3. Check for rolled 1: if true, switch to next player
 });
